@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/intelllicore/intellicore_backend#readme",
   "dependencies": {
-    "express": "^5.3.0"
+    "express": "^5.3.0",
+    "mongoose": "^9.11.2"
   }
 }
